@@ -14,6 +14,9 @@
 
 ![](https://komarev.com/ghpvc/?username=gracethcor&style=for-the-badge&color=ff69b4)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-pink?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gracethcornelio/)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/gracethcornelio/))
+
+
 <!---
 gracethcor/gracethcor is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 You can click the Preview link to see how your changes will appear on your profile before committing.
