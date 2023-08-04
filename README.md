@@ -12,7 +12,7 @@
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gracethcornelio/) or shoot me an email at gracethcornelio@proton.me
 
-![](https://komarev.com/ghpvc/?username=gracethcor&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=gracethcor&style=for-the-badge&color=ff69b4)
 
 <!---
 gracethcor/gracethcor is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
