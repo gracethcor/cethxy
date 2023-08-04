@@ -14,7 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gracethcor&style=for-the-badge&color=ff69b4)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-pink?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gracethcornelio/)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/gracethcornelio/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gracethcornelio/)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/gracethcornelio/))
 
 
 <!---
