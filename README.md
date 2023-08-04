@@ -10,8 +10,6 @@
 
 💞️ I’m open to collaborating on projects that involve coding, scripting, and exploring the world of IT.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gracethcornelio/) or shoot me an email at gracethcornelio@proton.me
-
 ![](https://komarev.com/ghpvc/?username=gracethcor&style=plastic&color=ff69b4) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gracethcornelio/)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/gracethcornelio/))
 
 <!---
