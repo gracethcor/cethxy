@@ -4,9 +4,9 @@
 
 👀 I’m interested in expanding my knowledge in technology, exploring new coding challenges, and contributing to meaningful projects.
 
-🎮 As a #girlgamer, you'll often find me immersed in the world of MMORPG (nothing beats the classic pRO/Philippine Ragnarok Online). I've ventured into private servers like DarkRO and I'm still an avid player, always up for an epic adventure.
-
 🌱 Currently, I'm learning about the basics of IT Systems, various programming languages and I'm working on enhancing my skills in software development and technical support.
+
+🎮 As a #girlgamer, you'll often find me immersed in the world of MMORPG (nothing beats the classic pRO/Philippine Ragnarok Online). I've ventured into private servers like DarkRO and I'm still an avid player, always up for an epic adventure.
 
 💞️ I’m open to collaborating on projects that involve coding, scripting, and exploring the world of IT.
 
