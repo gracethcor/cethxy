@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Graceth /grey-set/ !
 
-🌟 Welcome to my GitHub profile! I'm an IT Systems International Student in Canada with a passion for coding and problem-solving. I'm excited to share my projects and collaborate with fellow developers~
+🌟 Welcome to my GitHub profile! I'm an IT Systems International Student in Canada with a passion for coding and problem-solving. I'm excited to share my projects and collaborate with fellow developers.
 
 👀 I’m interested in expanding my knowledge in technology, exploring new coding challenges, and contributing to meaningful projects.
 
