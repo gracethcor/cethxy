@@ -16,3 +16,12 @@
 gracethcor/gracethcor is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 You can click the Preview link to see how your changes will appear on your profile before committing.
 --->
+
+---
+
+### Languages and Tools
+
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.cppreference.com/)
+
+<!-- Add more icons and links here for other languages and tools. -->
